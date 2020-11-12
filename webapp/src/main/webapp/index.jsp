@@ -10,3 +10,4 @@
 <h1> This is done using ansible setup by running a Jenkins Job <h1>
 <h2> This is to check whether the changes made reflected <h2>
 <h3> Completed the Ansible playbook job to automatically delete and create new container <h3>
+<h1> Totally done with the Ansible integration with Jenkins and Docker <h1>
